@@ -9,6 +9,9 @@ Some screenshots from the project
 ![Screenshot (143)](images/Desktop_View2.png)
 
 
+
+
+
 ![Screenshot (144)](images/cart_view.png)
 
 
